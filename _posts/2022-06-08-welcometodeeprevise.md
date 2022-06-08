@@ -1,5 +1,5 @@
 ---
-title: "Welcome to deep review"
+title: "Welcome to deep revise"
 date: 2022-06-08
 ---
 
